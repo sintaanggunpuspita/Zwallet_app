@@ -1,0 +1,19 @@
+body {
+    background-color: violet;
+    background-image: url(Assets/img1.png);
+    color: #333;
+}
+
+.container {
+    width: 960px;
+    margin: auto;
+    background-color: #fff;
+    background-image: url(Assets/img2.jpg);
+}
+
+ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    height: 10px;
+    line-height: 25px;
+}
