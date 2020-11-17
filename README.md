@@ -1,8 +1,5 @@
 # Zwallet_app
-# Pos-App
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
 
 * [Contact](#contact)
 
